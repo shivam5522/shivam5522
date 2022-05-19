@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam5522&label=Profile%20views&color=0e75b6&style=flat" alt="shivam5522" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **shivamthakkar36@gmail.com**
 
